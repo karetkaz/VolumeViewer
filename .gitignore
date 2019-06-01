@@ -1,0 +1,6 @@
+**/.idea/
+**/temp/
+
+*.vol
+*.pro.user
+*.pro.user.*

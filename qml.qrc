@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/SliderRow.qml</file>
+        <file>qml/ColorRow.qml</file>
+        <file>qml/OperationItem.qml</file>
+        <file>qml/OperationItemValue.qml</file>
+        <file>qml/OperationItemSphere.qml</file>
+        <file>qml/OperationList.qml</file>
+    </qresource>
+</RCC>
